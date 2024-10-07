@@ -12,6 +12,6 @@ Um projeto de estudo que gera jogos de 6 números aleatórios da Mega-Sena. Apó
 - JavaScript
 
 ## Observações
-Há uma seção no site chamada **"Resultado oficial da Mega-Sena"**, que deveria ser alimentada com os dados da API (como a data do último sorteio e os números sorteados). No entanto, devido a um problema com o site que fornece a API, a aplicação hospedada no Heroku está enfrentando falhas. 
+Há uma seção no projeto chamada **"Resultado oficial da Mega-Sena"**, que deveria ser alimentada com os dados da API (como a data do último sorteio e os números sorteados). No entanto, devido a um problema com o site que fornece a API, a aplicação hospedada no Heroku está enfrentando falhas. 
 
 Atualmente, a seção está vazia, e o projeto apenas gera jogos aleatórios sem a funcionalidade de comparação com os resultados reais da Mega-Sena.
