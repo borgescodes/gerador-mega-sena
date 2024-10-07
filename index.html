@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>mega | by Borgez</title>
+    <link rel="icon" href="imagens/logo-mega-sena.ico">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</head>
+<body>
+<div class="main-h1">
+    <h2 class="only-h1">
+        <span>Gerador De Jogos Da</span>
+        <span>MEGA-SENA!</span>
+    </h2>
+</div>
+<div class="main-container">
+    <div class="container-0">
+        <h1>Quantos Jogos Você Quer Gerar?</h1>
+        <div class="input-container">
+            <div class="input-group">
+                <input type="number" class="input-game" id="input-game" placeholder="0">
+                <button id="btn-generator" class="btn">Gerar</button>
+                <button id="btn-clear" class="btn"><box-icon name='trash-alt' type='solid' flip='horizontal' color='#ffffff' ></box-icon></button>
+            </div>
+            <footer class="footer">
+                <p>© Pedro Borges - TADS 2024.</p>
+            </footer>
+        </div>
+    </div>
+    <div id="resultado-oficial-container" class="container">
+        <h2>Resultado Oficial da Mega-Sena</h2>
+        <div class="resultado-content">
+            <div id="dezenas-sorteadas"></div>
+            <div id="data-sorteio"></div>
+        </div>
+    </div>
+    <div class="container-1">
+        <h1>Análise dos Jogos Gerados:</h1>
+        <div class="result-acertos">
+            <div class="acerto-item">
+                <p>Único</p>
+                <div class="ball" id="1">0</div>
+            </div>
+            <div class="acerto-item">
+                <p>Duplo</p>
+                <div class="ball" id="2">0</div>
+            </div>
+            <div class="acerto-item">
+                <p>Triplo</p>
+                <div class="ball" id="3">0</div>
+            </div>
+            <div class="acerto-item">
+                <p>Quadra</p>
+                <div class="ball" id="4">0</div>
+            </div>
+            <div class="acerto-item">
+                <p>Quina</p>
+                <div class="ball" id="5">0</div>
+            </div>
+            <div class="acerto-item">
+                <p>SENA</p>
+                <div class="ball" id="6">0</div>
+            </div>
+        </div>
+        <div id="jogos" class="jogos-container"></div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
