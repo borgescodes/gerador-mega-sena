@@ -4,7 +4,7 @@ Um projeto de estudo, que gera jogos de 6 números aleatórios da Mega-Sena. Ap�
 ## Como usar?
 1. Clone o repositório: `git clone https://github.com/borgescodes/gerador-mega-sena.git`
 2. Abra o arquivo `index.html` no navegador.
-3. Clique no botão "Gerar números" para ver os números sorteados!
+3. Preencha o campo de entrada com a quantidade de jogos desejados e, depois, clique no botão "Gerar" para gerar os jogos e ver a análise deles.
 
 ## Tecnologias usadas
 - HTML
