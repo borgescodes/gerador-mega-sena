@@ -14,11 +14,11 @@ Confira o projeto funcionando [aqui](https://borgescodes.github.io/gerador-mega-
 3. Insira no campo de entrada a quantidade de jogos desejados.
 4. Clique no botão "Gerar" para criar os jogos e visualizar a análise deles.
 
-## Observações Importantes
+<!--## Observações Importantes
 
 - O projeto possui uma seção chamada **"Resultado oficial da Mega-Sena"**, que deveria ser alimentada pelos dados da API (como a data do último sorteio e os números sorteados).
 - Devido a problemas com o site que fornece a API, a aplicação hospedada no Heroku está enfrentando falhas, deixando essa seção vazia.
-- **Atualmente**, o projeto **apenas gera jogos aleatórios**, sem a funcionalidade de comparação com os resultados oficiais da Mega-Sena.
+- **Atualmente**, o projeto **apenas gera jogos aleatórios**, sem a funcionalidade de comparação com os resultados oficiais da Mega-Sena.-->
 
 ## Tecnologias usadas
 - HTML
