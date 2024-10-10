@@ -5,8 +5,6 @@ Um projeto de estudo que gera jogos de 6 números aleatórios da Mega-Sena. Orig
 ### Demo
 Confira o projeto funcionando [aqui](https://borgescodes.github.io/gerador-mega-sena/).
 
----
-
 ## Como Usar
 
 1. Clone o repositório: `git clone https://github.com/borgescodes/gerador-mega-sena.git`
