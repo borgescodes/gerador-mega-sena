@@ -1,6 +1,7 @@
 # Gerador de Jogos da Mega-Sena
 
-Um projeto de estudo que gera jogos de 6 números aleatórios da Mega-Sena. Originalmente, o projeto também comparava os jogos gerados com o resultado mais recente da Mega-Sena, utilizando uma API para obter a data do último sorteio e os números sorteados.
+Projeto de estudo que gera combinações aleatórias de 6 números da Mega-Sena e as compara com o resultado mais recente. A aplicação utiliza uma API para consultar a data e os números do último sorteio.
+<!--Um projeto de estudo que gera jogos de 6 números aleatórios da Mega-Sena. Originalmente, o projeto também comparava os jogos gerados com o resultado mais recente da Mega-Sena, utilizando uma API para obter a data do último sorteio e os números sorteados.-->
 
 ### Demo
 Confira o projeto funcionando [aqui](https://borgescodes.github.io/gerador-mega-sena/).
